@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS on Ace Lee</title>
+    <link>https://tk009999.github.io/techs/ios/</link>
+    <description>Recent content in iOS on Ace Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© Ace Lee</copyright>
+    
+	<atom:link href="https://tk009999.github.io/techs/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Say Photo</title>
+      <link>https://tk009999.github.io/portfolio/say-photo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tk009999.github.io/portfolio/say-photo/</guid>
+      <description>Just say the &amp;ldquo;photo&amp;rdquo; or other &amp;ldquo;keyword&amp;rdquo; you would be easy operation to take a photo and then you would be change your habit of always tap button to take a photo.</description>
+    </item>
+    
+  </channel>
+</rss>
